@@ -105,8 +105,11 @@ Hay que ejecutar estos pasos para poder ejecutar este proceso:
 
 Levantando el servicio en `localhost:8080`
 
+[Img docker running](https://drive.google.com/open?id=1KdFCwfBIbWvimzRbClkjKpEeZ8LNY74f)
+
 Luego desde nuestro IDE ejecutamos el plan de pruebas.
 
+[Img Rungin Test](https://drive.google.com/open?id=13k4WywxtSi_crYas1WpUMAD0RxhkLrQq)
 #### Automatización de pruebas con Docker + Maven (Fabric8)
 
 El proceso anterior se ha querido automatizar usando [Fabric8](http://dmp.fabric8.io/). Con este plugin conseguimos que al 
